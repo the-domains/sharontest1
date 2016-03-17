@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SharonTest1]]></title>
         <description><![CDATA[SharonTest1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sharontest1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 21:12:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 21:13:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sharontest1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1efe6326-d235-4c36-90a3-a5b618f8a3f2.png">]]></description>
-            <link>undefined59c16ce7-d2f6-4812-955b-a4a332faf2ad/index.html</link>
+            <link>https://thegrid.ai/sharontest1/59c16ce7-d2f6-4812-955b-a4a332faf2ad/index.html</link>
             <guid isPermaLink="false">59c16ce7-d2f6-4812-955b-a4a332faf2ad</guid>
-            <pubDate>Thu, 17 Mar 2016 21:12:02 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 21:13:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
