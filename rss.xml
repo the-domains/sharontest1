@@ -4,7 +4,7 @@
         <description><![CDATA[SharonTest1]]></description>
         <link>https://thegrid.ai/sharontest1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 21:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 21:15:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sharontest1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,7 +14,15 @@
             <pubDate>Thu, 17 Mar 2016 21:13:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[learning]]></title>
+            <description><![CDATA[<article><h1>learning</h1><p>Okay, so where did the content go that I just published from drafts?  If there isn't a picture, does it just disappear?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/007f1cab-99ee-4372-a2e4-fb26b935149d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sharontest1/learning/index.html</link>
+            <guid isPermaLink="false">b6fdafb0-a57e-49eb-9219-1b7b0acf0fef</guid>
+            <pubDate>Fri, 18 Mar 2016 21:15:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I wonder how to put a second piece of content on to a site?  Can't seem to get the Chrome extension to work.  If I come to this web app, will I always need to go to drafts first, and then to the site I want it one?  I think that may be the answer ... Let's see.</p>]]></description>
             <link>https://thegrid.ai/sharontest1/bd78d3c8-3142-4bbd-8f91-7234860403dd/index.html</link>
             <guid isPermaLink="false">bd78d3c8-3142-4bbd-8f91-7234860403dd</guid>
             <pubDate>Fri, 18 Mar 2016 21:11:13 GMT</pubDate>
